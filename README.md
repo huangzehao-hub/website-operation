@@ -136,7 +136,8 @@
 ![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/shoulu1.png)<br>Bing站长认证后，共有108个页面被Bing抓取<br />![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/shoulu2.png)<br />虽然页面较多，但是被曝光率和点击率较低，可能是因为网站地图、外链、反链的问题。需要进一步对网站进行seo优化。
 
 ## 3.2 SEO优化
-Bing [https://www.bing.com/webmasters/searchperf?siteUrl=https://www.hzh666.top/](https://www.bing.com/webmasters/searchperf?siteUrl=https://www.hzh666.top/)
+
+在没有进行SEO优化之前，网站是没有什么浏览量的。
 
 ### 方法一：
 **在Yoast里添加文章的关键词同时补充完善描述文本，以此增加搜索引擎的收录机会。**<br />   
@@ -144,6 +145,9 @@ Bing [https://www.bing.com/webmasters/searchperf?siteUrl=https://www.hzh666.top/
 ### 方法二（官方方法）： 
 **修改文章url的定义规则，使得其更加规范化以便于搜索引擎收录**<br />修改方法：在wordpress后台中找到“设置”在子菜单中找到“固定链接”即可在里面修改整个网站的url的定义，我将其修改为文章名，这样更有助于搜索引擎爬取网站。修改为英文别名。<br />
 ![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/youhua.png)
+
+进行SEO优化后，截止到2021年1月14号时已有3000多浏览量，对比起刚开始的浏览量来说是激增的，所以说SEO优化是十分有用的。<br />
+![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/liulan.png)
 
 ## 3.3用户研究
 ### 方法一：用户访谈（10人）
