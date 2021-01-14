@@ -145,6 +145,11 @@
 ### 方法二（官方方法）： 
 **修改文章url的定义规则，使得其更加规范化以便于搜索引擎收录**<br />修改方法：在wordpress后台中找到“设置”在子菜单中找到“固定链接”即可在里面修改整个网站的url的定义，我将其修改为文章名，这样更有助于搜索引擎爬取网站。修改为英文别名。<br />
 ![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/youhua.png)
+### 方法三：
+**添加内外链，通过内外链来增加网站的浏览量**<br />
+添加方法：在每篇文章中直接添加链接，链接可以是自己网站其他文章的内链，也可以是链接其他网站的外链。在这里，我在每篇文章中添加了自己网站其他文章的内链并在页面中添加风之动漫这个网站的外链。<br />
+![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/neilian.png)
+![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/wailian.png)
 
 进行SEO优化后，截止到2021年1月14号时已有3000多浏览量，对比起刚开始的浏览量来说是激增的，所以说SEO优化是十分有用的。<br />
 ![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/liulan.png)
