@@ -156,8 +156,6 @@ Bing [https://www.bing.com/webmasters/searchperf?siteUrl=https://www.hzh666.top/
 6. 80%的用户希望在该网站中，可以看到最新的漫画情报（视频、文章等），可以及时获取最新的剧情；20%的用户希望能多多看到作者的个人分享。
 
 ![image.jpg](https://gitee.com/huang_zehao/website-operation/raw/master/image/fangtang.jpg)
-![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/fangtang1.png)
-![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/fangtang2.png)
 
 9. 最喜欢的地方：
 - 便于浏览的主题
