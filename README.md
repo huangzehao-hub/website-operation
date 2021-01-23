@@ -187,6 +187,10 @@
 
 ![image.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/yejiao2.png)
 
+## 3.4微信小商店配置
+
+![截图1](https://gitee.com/huang_zehao/picture-storage/raw/master/weixinxiaoshandian1.jpg)<br />
+![截图2](https://gitee.com/huang_zehao/picture-storage/raw/master/weixinxiaoshandian2.jpg)
 
 # 四、加分项
 ## 4.1微信小程序连接
