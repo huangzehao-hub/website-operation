@@ -190,7 +190,9 @@
 ## 3.4微信小商店配置
 
 ![截图1](https://gitee.com/huang_zehao/picture-storage/raw/master/weixinxiaoshandian1.jpg)<br />
-![截图2](https://gitee.com/huang_zehao/picture-storage/raw/master/weixinxiaoshandian2.jpg)
+![截图2](https://gitee.com/huang_zehao/picture-storage/raw/master/weixinxiaoshandian2.jpg)<br />
+![截图3](https://gitee.com/huang_zehao/picture-storage/raw/master/weixinxiaoshandian4.jpg)<br />
+![截图4](https://gitee.com/huang_zehao/picture-storage/raw/master/weixinxiaoshandian5.jpg)
 
 # 四、加分项
 ## 4.1微信小程序连接
