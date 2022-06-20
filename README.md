@@ -50,7 +50,7 @@
 ##### 
 ##### 3.利用DVF定义用户需求和产品目标
 
-- DVF模型![dvf.png](https://gitee.com/huang_zehao/website-operation/raw/master/image/DVFmoxing.png)
+- DVF模型![dvf.png](https://github.com/huangzehao-hub/website-operation/blob/9fe8357d7f21ce2dabd3c25adb8628ef9038934f/image/DVFmoxing.png)
 
 
 
